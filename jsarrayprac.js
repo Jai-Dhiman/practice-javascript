@@ -45,6 +45,27 @@
 
 // Write a function to generate/print/store the first “n” prime numbers.
 
-function primeNumber(n) {}
+// function primeNumber(n) {}
 
-primeNumber(7);
+// primeNumber(7);
+
+// Timeout practice:
+
+// 1. Wait 2 seconds
+// 2. Print out “First task done!”
+// 3. Wait another 2 seconds
+// 4. Print out “Second task done!”
+// 5. Wait another 2 seconds
+// 6. Print out “Third task done!”
+
+// setTimeout(function () {
+//   console.log("First task done!");
+// }, 2000);
+
+// setTimeout(function () {
+//   console.log("Second task done!");
+// }, 4000);
+
+// setTimeout(function () {
+//   console.log("Third task done!");
+// }, 6000);
